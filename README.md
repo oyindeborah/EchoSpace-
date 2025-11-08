@@ -34,6 +34,6 @@ Technologies
 
 Visuals  
 
-![Memory Map](assets/echospace-wireframe.png)  
-![Sketch](assets/memory-map-sketch.jpg)
+![Memory Map](https://www.figma.com/design/mxmkDA0hQ3H6rbArC16bQe/ECHOSPACE?node-id=0-1&t=iVKrWReoSgg4eYAI-1))  
+![Sketch](https://docs.google.com/document/d/1HKBbU5d_dXwtG7XJbVFMKNYcEV6PVOqKyXKDdq-AoVM/edit?usp=drivesdk)
 
