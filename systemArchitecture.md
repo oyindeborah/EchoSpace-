@@ -52,7 +52,7 @@ This approach is technically realistic because:
 
 System Diagram  
 
-!https://docs.google.com/document/d/1HKBbU5d_dXwtG7XJbVFMKNYcEV6PVOqKyXKDdq-AoVM/edit?usp=drivesdk
+https://docs.google.com/document/d/1HKBbU5d_dXwtG7XJbVFMKNYcEV6PVOqKyXKDdq-AoVM/edit?usp=drivesdk
 
 Summary  
 
