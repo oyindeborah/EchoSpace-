@@ -31,3 +31,9 @@ Technologies
 - Backend: Node.js with Express
 - Database: Firebase (for easy sync and user storage)
 - Map Integration: Google Maps API
+
+Visuals  
+
+![Memory Map](assets/echospace-wireframe.png)  
+![Sketch](assets/memory-map-sketch.jpg)
+
